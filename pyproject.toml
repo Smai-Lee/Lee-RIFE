@@ -1,0 +1,13 @@
+[project]
+name = "lee-rife"
+description = "Fast, GPU-batched RIFE frame interpolation for ComfyUI with working bidirectional ensemble in fp16/32. Self-contained, weights bundled, no extra dependencies."
+version = "1.0.0"
+license = { file = "LICENSE" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/Smai-Lee/Lee-RIFE"
+
+[tool.comfy]
+PublisherId = "smai-lee"
+DisplayName = "Lee-RIFE"
