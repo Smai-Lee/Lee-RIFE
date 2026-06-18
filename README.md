@@ -57,7 +57,7 @@ This node's own code is **MIT** (see `LICENSE`), © 2026 Smai-Lee.
 It builds on:
 
 * **RIFE / Practical-RIFE** (Zhewei Huang et al.) — the model and architecture (MIT).
-* **ComfyUI-Frame-Interpolation** (Fannovel16) — `rife\_arch.py` is vendored from it (MIT).
+* **ComfyUI-Frame-Interpolation** (Fannovel16) — `rife_arch.py` is vendored from it (MIT).
 
 Full attribution and the upstream license texts are in **`THIRD-PARTY-NOTICES.md`**.
 Please cite the RIFE paper if you use this in research (citation in the notices file).
