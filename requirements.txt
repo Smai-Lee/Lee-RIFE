@@ -1,0 +1,5 @@
+# ComfyUI-Lee-RIFE has NO extra Python dependencies.
+#
+# PyTorch is provided by your ComfyUI installation. Do NOT let a package manager
+# reinstall torch over it — that can replace your CUDA-enabled build and break
+# GPU support. This file is intentionally empty (comments only).

@@ -1,0 +1,13 @@
+This folder must contain the RIFE weights file:  rife49.pth
+
+This repository is meant to ship with rife49.pth already here. If it is missing
+(e.g. you obtained a copy without the binary), copy rife49.pth into this folder.
+
+Where to get it:
+  - From an existing ComfyUI-Frame-Interpolation install:
+        ComfyUI/custom_nodes/comfyui-frame-interpolation/ckpts/rife/rife49.pth
+  - From RIFE / Practical-RIFE:
+        https://github.com/hzwer/Practical-RIFE
+
+rife47.pth is also supported (same architecture) — just drop it here too.
+The file is about 21 MB. No Git LFS is required.
